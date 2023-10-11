@@ -1,0 +1,2 @@
+rashi,magar,123,32
+pallavi,girhe,234,44
